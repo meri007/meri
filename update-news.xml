@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsList>
+	<NewsEntry>
+		<date>28.07.23</date>
+		<text>
+		<![CDATA[
+<color=yellow>Update 4.1.0</color>
+
+Implement message translation
+To translate first enter the settings gear of chat and click Enabled, then select your language in dropdown. After click on message with ALT, your message will translated on your selected language
+		]]>
+		</text>
+		<imgUrl>
+		<![CDATA[
+		https://media.discordapp.net/attachments/890215052391645276/1134551441772654622/new1.png?width=600&height=450
+		]]>
+		</imgUrl>
+		<link>
+		<![CDATA[
+		https://meredian.in
+		]]>
+		</link>
+	</NewsEntry>
+	<NewsEntry>
+		<date>19.07.23</date>
+		<text>
+		<![CDATA[
+<color=yellow>Update 4.0.1</color>
+
+Most important update: 
+-New poses for 2 and 3 person
+-Pole dance for Man
+-A new building block to showcase images in various methods have been added to the World Editor. The block supports only pic from Discord. Maximum size of pic 256kb. Pic can animated, to do this select "Is Icon". Black = transparent, White = visible with the chosen color 
+To more information visit Discord
+		]]>
+		</text>
+		<imgUrl>
+		<![CDATA[
+		https://cdn.discordapp.com/attachments/876510477503594536/1118178720935596164/Update11.png
+		]]>
+		</imgUrl>
+		<link>
+		<![CDATA[
+		https://meredian.in
+		]]>
+		</link>
+	</NewsEntry>
+</NewsList>
