@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 	<NewsEntry>
+        	<date>14.08.23</date>
+        	<text>
+        	<![CDATA[
+<color=yellow>Update 4.2.1-content</color>
+
+*31 new wearables and adjustment to one existing wearable
+*Adjustments to last world editor update
+*Moving of the outfits category wearables to their correct new categories
+        	]]>
+        	</text>
+        	<imgUrl>
+        	<![CDATA[
+        	https://cdn.discordapp.com/attachments/1015963261990076447/1140710131437416519/eee.jpg
+        	]]>
+        	</imgUrl>
+        	<link>
+        	<![CDATA[
+       	 	https://meredian.in
+        	]]>
+        	</link>
+    	</NewsEntry>
+	<NewsEntry>
 		<date>12.08.23</date>
 		<text>
 		<![CDATA[
