@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 	<NewsEntry>
+        	<date>29.08.23</date>
+        	<text>
+        	<![CDATA[
+<color=yellow>Update 4.3.2</color>
+*Implemented new head and hands expressions and gestures feature
+*Fix various issues with carrying on hands
+        	]]>
+        	</text>
+        	<link>
+        	<![CDATA[
+       	 	https://meredian.in
+        	]]>
+        	</link>
+    	</NewsEntry>
+	<NewsEntry>
         	<date>27.08.23</date>
         	<text>
         	<![CDATA[
