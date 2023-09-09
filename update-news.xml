@@ -4,6 +4,27 @@
         	<date>08.09.23</date>
         	<text>
         	<![CDATA[
+<color=yellow>Update 4.4.1</color>
+* Improved expressions:
+  * Added new expressions
+  * Pause expressions during cuddling
+
+* Rewrite animation loading:
+  * Freezes during animation loadings have been fixed 
+  * Fixed synchronization on room joining
+* Fix issue when unusual colors of World Editor objects reset to normal ones
+        	]]>
+        	</text>
+        	<link>
+        	<![CDATA[
+       	 	https://meredian.in
+        	]]>
+        	</link>
+    	</NewsEntry>
+		<NewsEntry>
+        	<date>08.09.23</date>
+        	<text>
+        	<![CDATA[
 Saloon - Meredian Event     8 FRIDAY/ 20-00 CET
         	]]>
         	</text>
