@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 		<NewsEntry>
+        	<date>11.09.23</date>
+        	<text>
+        	<![CDATA[
+<color=yellow>Update 4.4.2</color>
+* Hotfixes
+  * Male positioning on animations
+  * Some of the animation syncing
+        	]]>
+        	</text>
+        	<link>
+        	<![CDATA[
+       	 	https://meredian.in
+        	]]>
+        	</link>
+    		</NewsEntry>
+		<NewsEntry>
         	<date>09.09.23</date>
         	<text>
         	<![CDATA[
