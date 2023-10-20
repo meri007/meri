@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
-	
+
+		<NewsEntry>
+        	<date>20.10.23</date>
+        	<text>
+        	<![CDATA[
+Meredian Pirate-Event      Saturday 21.10.23/ 20-00 CET/ 
+        	]]>
+        	</text>
+        	<imgUrl>
+        	<![CDATA[
+        	https://cdn.discordapp.com/attachments/1017016902494728243/1164915746023944212/pirate.jpg
+        	]]>
+        	</imgUrl>
+        	<link>
+        	<![CDATA[
+       	 	https://meredian.in-
+        	]]>
+        	</link>
+		</NewsEntry>
 	<NewsEntry>
         	<date>20.10.23</date>
         	<text>
