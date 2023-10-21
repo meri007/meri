@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 
-	
 		<NewsEntry>
-        	<date>20.10.23</date>
+        	<date>21.10.23</date>
         	<text>
         	<![CDATA[
 <color=yellow>We are aware of the situation with the Discord's sudden disappearance, we are in works of restoring it, sorry for the temporary inconveience.</color>
         	]]>
         	</text>
-        	<imgUrl>
+		<imgUrl>
         	<![CDATA[
-		<color=yellow>We are aware of the situation with the Discord's sudden disappearance, we are in works of restoring it, sorry for the temporary inconveience.</color>
+        	https://cdn.discordapp.com/attachments/1015718352334880838/1150886826538713149/Screenshot_1.jpg
         	]]>
         	</imgUrl>
         	<link>
         	<![CDATA[
-       	 	https://meredian.in-
+       	 	https://cdn.discordapp.com/attachments/803693621836513300/1157610094691893248/ManualUpdate30092023_1.zip
         	]]>
         	</link>
-		</NewsEntry>
+    		</NewsEntry>
 		<NewsEntry>
         	<date>20.10.23</date>
         	<text>
