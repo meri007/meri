@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 
-	<NewsEntry>
+		<NewsEntry>
+        	<date>24.10.23</date>
+        	<text>
+        	<![CDATA[
+<color=yellow>4.5.0 Content Update</color>
+* Female
+  * 16 New Topwears
+  * 10 New Botwears
+  * 7  New Dresses
+  * 4  New Shoes
+  * 5  New Hats
+  * 3  New Collars
+  * 2  New Masks
+  * 2  New Tails
+  * 2  New Bracelets
+  * 4  New Bras
+  * 2  New Panties
+  * 4  New Outfit Items
+  * 1  New Headwear
+  * 10 New Rings
+* Male
+  * 3  New Botwear
+  * 2  New Topwears
+  * 1  New Backpack
+        	]]>
+        	</text>
+		<imgUrl>
+        	<![CDATA[
+        	https://cdn.discordapp.com/attachments/1016865329554657350/1166472609538523227/Screenshot_1.jpg
+        	]]>
+        	</imgUrl>
+        	<link>
+        	<![CDATA[
+       	 	https://cdn.discordapp.com/attachments/1015718352334880838/1166464278124044349/AssetBundles.zip
+        	]]>
+        	</link>
+    		</NewsEntry>
+		<NewsEntry>
         	<date>21.10.23</date>
         	<text>
         	<![CDATA[
