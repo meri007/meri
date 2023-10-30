@@ -2,7 +2,7 @@
 <NewsList>
 
 		<NewsEntry>
-        	<date>29.10.23</date>
+        	<date>30.10.23</date>
         	<text>
         	<![CDATA[
 <color=yellow>Update 4.6.1</color>
@@ -21,7 +21,25 @@
        	 	https://gofile.io/d/nhOlR9
         	]]>
         	</link>
-    		</NewsEntry>	
+    		</NewsEntry>
+	<NewsEntry>
+        	<date>30.10.23</date>
+        	<text>
+        	<![CDATA[
+La Ultima Horada - Meredian Party TUESDAY/ 20-00 CTE
+        	]]>
+        	</text>
+        	<imgUrl>
+        	<![CDATA[
+        	https://cdn.discordapp.com/attachments/968519132972744725/1168511153622757466/CARTEL_HALLOWEEN2.jpg
+        	]]>
+        	</imgUrl>
+        	<link>
+        	<![CDATA[
+       	 	https://meredian.in-
+        	]]>
+        	</link>
+		</NewsEntry>
 		<NewsEntry>
         	<date>29.10.23</date>
         	<text>
