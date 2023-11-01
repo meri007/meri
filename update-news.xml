@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
-
+<NewsEntry>
+        	<date>01.11.23</date>
+        	<text>
+        	<![CDATA[
+Juitar Opening Party wednesday/ 8PM CET/ 22:00 TR
+        	]]>
+        	</text>
+        	<imgUrl>
+        	<![CDATA[
+        	https://cdn.discordapp.com/attachments/968519132972744725/1169262512412307556/JuiTaR_Opening.jpg?ex=6554c392&is=65424e92&hm=39ccea868c7523b3fd4cb3d1c40ea2bd2a8ad36900b4f8f95c5080e5c7e97678&
+        	]]>
+        	</imgUrl>
+        	<link>
+        	<![CDATA[
+       	 	https://meredian.in-
+        	]]>
+        	</link>
+		</NewsEntry>
 		<NewsEntry>
         	<date>01.11.23</date>
         	<text>
