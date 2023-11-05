@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 
+<NewsEntry>
+        	<date>05.11.23</date>
+        	<text>
+        	<![CDATA[
+<color=yellow>We are recruiting Italian and Spanish moderators, if you'd like to apply, follow the banner below.</color>
+        	]]>
+        	</text>
+		<imgUrl>
+        	<![CDATA[
+        	https://i.imgur.com/nwJU6yv.png
+        	]]>
+        	</imgUrl>
+        	<link>
+        	<![CDATA[
+       	 	https://docs.google.com/forms/d/e/1FAIpQLSf7rtkGmamLUXV0j2LlHcRsbEfmKWlGRHY0UEX_wBXds0-ldw/viewform
+        	]]>
+        	</link>
+    		</NewsEntry>
 	<NewsEntry>
         	<date>04.11.23</date>
         	<text>
