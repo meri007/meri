@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 
+		<NewsEntry>
+        	<date>01.11.23</date>
+        	<text>
+        	<![CDATA[
+<color=yellow>Update 4.8.0</color>
+* Room:
+  * Add fireworks into room editor, you can place and use fireworks in your own room
+  * Add commands for room owners: `/room fireworks`, `/room moderators`, for more info you can check `/help` in-game
+  * Improve fireworks usage, you can test fireworks in your own room or room editor `/firework test`
+  * Room owners get 50% of each fireworks purchase in their room
+* Implement smooth animation transitions for solo animations
+* Allow loading "only clothes" from character .dat presets, which will just load the saved clothes without changing the body features
+* Allow clicking on room owner names to open their profiles
+* Allow loading images from `https://imgbox.com/` because of new discord content policy for image tool for world editor
+* Add selected objects counter to room editor (you can select all to get total objects count)
+* Add unlimited and 15fps lock to graphics settings if you want to be AFK staying in the game (we may decrease resources usage in background more, let us know if you like it)
+* Fix the legendary bone stuck in mouth (it should have been done one day anyway)
+* Fix various marriage issues
+        	]]>
+        	</text>
+		<imgUrl>
+        	<![CDATA[
+        	https://i.imgur.com/3OiGbbn.jpeg
+        	]]>
+        	</imgUrl>
+        	<link>
+        	<![CDATA[
+       	 	https://xfl.jp/HbytA7
+        	]]>
+        	</link>
+    		</NewsEntry>
 	<NewsEntry>
         	<date>12.11.23</date>
         	<text>
