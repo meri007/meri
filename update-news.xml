@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
-
+<NewsEntry>
+            <date>18.11.23</date>
+            <text>
+            <![CDATA[
+Meredian Anime-Event Sunday 19.11.23/ 20:00 CET
+            ]]>
+            </text>
+            <imgUrl>
+      <![CDATA https://cdn.discordapp.com/attachments/986661280054132786/1175422973642027209/poster.jpg?ex=656b2cf3&is=6558b7f3&hm=5fe21ce3f85252e4b10c1493870c72be84f73b4e03d04696f078fb882aa817a7&
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+                https://meredian.in-/
+            ]]>
+            </link>
+        </NewsEntry>
 	<NewsEntry>
         	<date>18.11.23</date>
         	<text>
