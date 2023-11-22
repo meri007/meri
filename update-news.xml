@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 
+		<NewsEntry>
+        	<date>23.11.23</date>
+        	<text>
+        	<![CDATA[
+<color=yellow>Update 4.9.0</color>
+* Fixes
+  * Several clothes and their glitches and some non-displayed wears have been fixed
+  * Fix crash on categories click in the world editor
+  * Fix broken cuddles and wedding animations due to cross-fading
+
+* TV Overhaul:
+  * Add a new media player object in room editor, you can use it to play media in your room
+  * Add YouTube links support
+  * Remove old TV
+
+* Add expressions preferences: speed, intensity
+			
+* Optimize clothes and room loading
+
+* /afk message will show AFK duration now
+        	]]>
+        	</text>
+		<imgUrl>
+        	<![CDATA[
+        	https://i.imgur.com/3OiGbbn.jpeg
+        	]]>
+        	</imgUrl>
+        	<link>
+        	<![CDATA[
+       	 	https://we.tl/t-FnaZAj1tu4
+        	]]>
+        	</link>
+    		</NewsEntry>
 	<NewsEntry>
         	<date>20.11.23</date>
         	<text>
