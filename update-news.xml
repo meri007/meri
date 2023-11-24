@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
-
+	<NewsEntry>
+            <date>24.11.23</date>
+            <text>
+            <![CDATA[
+Winter Fall/24.11.23/ 20:00 CET/ 
+            ]]>
+            </text>
+            <imgUrl>
+            <![CDATA[
+            https://cdn.discordapp.com/attachments/970265168011489310/1177581313323192321/EVENTO_INVIERNO.png?ex=6573070f&is=6560920f&hm=eb5cc17471824ee1f75669803234c760cc9557e76b5c007143ccec380f131eaf&
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+                https://meredian.in-/
+            ]]>
+            </link>
+        </NewsEntry>
 		<NewsEntry>
         	<date>23.11.23</date>
         	<text>
