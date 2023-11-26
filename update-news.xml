@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
-
+<NewsEntry>
+            <date>26.11.23</date>
+            <text>
+            <![CDATA[
+3DX CIN Club - Meredian Party SUNDAY/ 6 PM CET/ 20-00 MSK
+            ]]>
+            </text>
+            <imgUrl>
+            <![CDATA[
+            https://media.discordapp.net/attachments/971655368029659166/1178309593768677437/sin26.jpg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+                https://meredian.in-/
+            ]]>
+            </link>
+        </NewsEntry> 
 	<NewsEntry>
             <date>26.11.23</date>
             <text>
