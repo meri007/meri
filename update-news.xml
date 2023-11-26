@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
+
+	<NewsEntry>
+            <date>26.11.23</date>
+            <text>
+            <![CDATA[
+3DX Party SUNDAY/ 17:00 UTC
+            ]]>
+            </text>
+            <imgUrl>
+            <![CDATA[
+            https://media.discordapp.net/attachments/971655368029659166/1178308887615656037/auditions_place_reduced.jpg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+                https://meredian.in-/
+            ]]>
+            </link>
+        </NewsEntry> 
 <NewsEntry>
             <date>25.11.23</date>
             <text>
