@@ -4,7 +4,9 @@
             <date>11.12.23</date>
             <text>
             <![CDATA[
-<color=yellow>Update 4.10.0</color>
+<color=yellow>Update 4.10.0
+* Currently some trees have a visual bug in World Editor, it will not affect the actual room, fix will be in the next update.</color>
+		    
 * Casino
   * Implemented a casino room with new slot machines
 
