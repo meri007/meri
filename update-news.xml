@@ -16,6 +16,7 @@
  * Fixed various issues causing volume spike on start playing
 
 * Misc
+ * World Editor has been fixed
  * More optimization on clothes and room loading
  * Marked the poses that require a strapon
  * PictureTool, MediaPlayer and Fireworks have been moved to Electronics Category in World Editor
@@ -28,7 +29,7 @@
             </imgUrl>
             <link>
             <![CDATA[
-            https://dropmefiles.com/Rrz7N
+            https://dropmefiles.com/4CvU5
             ]]>
             </link>
             </NewsEntry>
