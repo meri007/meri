@@ -1,4 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
+        <NewsEntry>
+            <date>11.12.23</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.10.0</color>
+* Casino
+  * Implemented a casino room with new slot machines
+
+* TV
+ * Implemented YouTube Stream support
+ * Added a media player volume control into the settings
+ * Fixed the video texture clearing on playback stop
+ * Fixed playback synchronization on room joining for .m3u8 format
+ * Fixed various issues causing volume spike on start playing
+
+* Misc
+ * More optimization on clothes and room loading
+ * Marked the poses that require a strapon
+ * PictureTool, MediaPlayer and Fireworks have been moved to Electronics Category in World Editor
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/HilpCl5.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+            https://dropmefiles.com/Rrz7N
+            ]]>
+            </link>
+            </NewsEntry>
 <NewsList>
 	<NewsEntry>
         	<date>09.12.23</date>
