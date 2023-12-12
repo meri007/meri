@@ -9,6 +9,7 @@
 		    
 * Casino
   * Implemented a casino room with new slot machines
+  * Adjusted the sound of the slot machines to players' convenience
 
 * TV
  * Implemented YouTube Stream support
