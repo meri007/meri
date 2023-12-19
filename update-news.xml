@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
+        <NewsEntry>
+            <date>20.12.23</date>
+            <text>
+            <![CDATA[
+<color=yellow>Currently there is issues with renaming, the fix is planned to go live tomorrow, thank you for your understanding.
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[           
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+            ]]>
+            </link>
+            </NewsEntry>
 	<NewsEntry>
         	<date>15.12.23</date>
         	<text>
