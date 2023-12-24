@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
+<NewsEntry>
+        	<date>24.12.23</date>
+        	<text>
+        	<![CDATA[
+<color=yellow>4.11.1</color>
 
+* Added new poses
+* Added missing requests reminder (toggle in settings)
+* Added drink effects for some bottles during Christmas week
+* Set price for character renaming to 20000
+* Optimized the default rooms: Saloon, Beach and Island
+* Fixed clothes control randomly clipping or showing clothes of current player
+* Fixed marking poses that require strapon
+* Fixed several broken meshes in room editor
+
+<u>We would like to thank to the Official Team for them contributing new poses for our community</u>			
+        	]]>
+        	</text>
+		<imgUrl>
+        	<![CDATA[
+        	https://i.imgur.com/3OiGbbn.jpeg
+        	]]>
+        	</imgUrl>
+        	<link>
+        	<![CDATA[
+       	 	https://we.tl/t-jxYbXFl5p8
+        	]]>
+        	</link>
+    		</NewsEntry>
 	<NewsEntry>
         	<date>23.12.23</date>
         	<text>
