@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>22.01.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.14.1</color>
+
+* World Editor
+  * Focus button to zoom in to selected object or group has been fixed
+  * Minimum snap (Magnet Tool) adjustable scale has been lowered from 0.1 to 0.01
+* Implemented Favorite Rooms Feature
+  * Players are now able to add a star to their favorite rooms to later filter them by preferences
+* Fixes on dressed sex when players were auto undressed
+* More various performance optimizations made to the game
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+		https://we.tl/t-k013yNI39F
+            ]]>
+            </link>
+            </NewsEntry>
+<NewsEntry>
             <date>13.01.24</date>
             <text>
             <![CDATA[
