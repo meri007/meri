@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
-<NewsEntry>
+ <NewsEntry>
+            <date>27.01.24</date>
+            <text>
+            <![CDATA[
+Meredian Tomorrowland Event
+* Celebrate the first official event 2024 with us!
+* Dance, drink, have fun and win Xgold and Colored Name prizes!
+* Meet some of the new DJ's who will soon start monthly parties at Fresco!
+            ]]>
+            </text>
+            <imgUrl>
+            <![CDATA[
+            https://cdn.discordapp.com/attachments/968519132972744725/1200071382105591969/Tomorrowland2.png
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+                https://meredian.in-
+            ]]>
+            </link>
+        </NewsEntry>
+	<NewsEntry>
             <date>22.01.24</date>
             <text>
             <![CDATA[
