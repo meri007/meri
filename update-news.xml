@@ -1,6 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>14.02.24</date>
+            <text>
+            <![CDATA[
+
+<color=#a52a2a><size=12>Thank to you all for being a part of the Meredian Family,
+We've proud to inform our family grew by half since the new year,
+As a gratitude, we prepared a big and warm update for you ★
+As well as celebrating everyone's Valentine's Day ♥️  </size></color>
+
+<color=yellow>Update 4.15.0</color>
+
+• World Editor
+  • Objects
+    • New 160 World Editor items have been added in several categories
+      • Implemented new feature based on lights favoring extreme performance with customizable colors along with 3 new prototype objects
+    • 3 new Pose Nodes were added
+      • Some Pose Node collisions were remade and replaced by hand-drawn colliders for both more performance and comfort for the player
+    • Distance and visual errors with certain existing World Editor items have been fixed
+    • Multiple display icon replacements on existing objects
+    • Recategorizing object structures for more efficiency for future content and bugfix deliveries
+    • Rework on both the visible and the non visible components of the World Editor objects for more performance
+    • Better combability adjustments have been made to objects for wide ease of use between different versions
+
+  • Materials
+    • 140 new primitive Materials have been added
+    • Adjustments to loading materials
+
+  • Weather
+    • Adjustments to loading weathers
+
+  • Miscellaneous
+    • Improvements on World loading
+    • Negative scaling issues have been fixed (should help with colliding effects)
+    • Loading order for World Editor assets have been adjusted
+    • Implementation of a better categorization structure on overall the whole World Editor
+    • Teleport object moved to Electronics Category
+    • Respawn prop being invisible bug has been fixed
+
+• Character Editor
+  • A new item customization feature has been implemented
+    • Players will be able to manually adjust print tiling, glossiness strength as well as metallic looks on their favorite items (some items might lack the support for one or more components)
+    • This feature is an experimental feature, it may or may not be reverted back, limited or adjusted in the future
+  • New 8 items have been added
+    • 3 Female Topwear
+    • 1 Female Dress
+    • 3 Male Topwear
+    • 1 Male Hat
+  • Visual errors with certain existing Character Editor items have been fixed
+  • Right Panel UI has been readjusted to comply new updates
+  • Color support for left, right and bottom piercings as well as plugs has been fixed
+  • Experimental items accidentally loading to the editor has been fixed
+
+•  Miscellaneous
+  • Fixes on player Block and Unblock mechanic regarding to room hosting and joining
+  • Fixes on the game not saving sound settings on restart
+  • Fixes on non-recurring issues on poses icons loading
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://we.tl/t-A2y66iTEiS
+            ]]>
+            </link>
+            </NewsEntry>
+<NewsEntry>
+            <![CDATA[
+            ]]>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/QNZwDfV.png
+            ]]>
+            </imgUrl>
+            <![CDATA[
+            ]]>
+</NewsEntry>
+<NewsEntry>
+            <![CDATA[
+            ]]>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/YXh43wy.png
+            ]]>
+            </imgUrl>
+            <![CDATA[
+            ]]>
+</NewsEntry>
+<NewsEntry>
+            <![CDATA[
+            ]]>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/Gv8dLrI.png
+            ]]>
+            </imgUrl>
+            <![CDATA[
+            ]]>
+</NewsEntry>
+<NewsEntry>
             <date>30.01.24</date>
             <text>
             <![CDATA[
