@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 	<NewsEntry>
+            <date>23.02.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.16.0</color>
+
+• New dances have been added
+  • 2 couple
+  • 12 male
+  • 10 female
+• Added new expressions based on new dances
+• Actions and Dances panels are now toggleable (minimize)
+
+• Fixes
+  • Male avatars invisible beard bug in character editor has been fixed
+  • New spotlights not saving their chosen color bug has been fixed
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+		https://we.tl/t-npOj6P1qnn
+            ]]>
+            </link>
+            </NewsEntry>
+	<NewsEntry>
             <date>14.02.24</date>
             <text>
             <![CDATA[
