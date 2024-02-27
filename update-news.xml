@@ -1,32 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
-<NewsEntry>
-            <date>27.02.24</date>
-            <text>
-            <![CDATA[
-<color=yellow>Update 4.16.1</color>
-
-• Optimization on Pose Nodes
-• Fixes on various bugs of the vehicles with pose interactions
-• Infinite loading screen on Character Editor entry has been fixed
-• Players are now able to control their Radio Host during slow-dancing
-• Ocean level not being saved properly in World Editor has been fixed
-• Some dances not playing properly on players upon joining a room has been fixed
-• Fixes on several wears on both Male and Female
-  • A Male harness remade and moved to Top Wears
-            ]]>
-            </text>
-        <imgUrl>
-            <![CDATA[
-            https://i.imgur.com/3OiGbbn.jpeg
-            ]]>
-            </imgUrl>
-            <link>
-            <![CDATA[
-		https://we.tl/t-OoEtoVWWQ7
-            ]]>
-            </link>
-            </NewsEntry>
 	<NewsEntry>
             <date>23.02.24</date>
             <text>
