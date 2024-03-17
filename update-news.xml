@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>17.03.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.17</color>
+
+• Various optimizations on player avatars
+• New color support for both:
+  • Pubes
+  • Male Beards
+    • Some already in-use beards might look white after update, you can change this by picking a new color
+• Walk, Run (and Lynx) choice is saved between room changes
+• Fixes on ripping of the non-worn stockings
+• Various fixes on Clothes Control feature
+• Fixes on Male Tattoos and Female Face-mods missing or wrong icons
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://we.tl/t-VssUG9BB7f
+            ]]>
+            </link>
+            </NewsEntry>
+<NewsEntry>
             <date>08.03.24</date>
             <text>
             <![CDATA[
