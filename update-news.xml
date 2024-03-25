@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>17.03.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.18.0 </color>
+
+• Improved the Character Editor Sliders
+  • More compact
+  • Displays current values
+  • Precise mode support (now you can use your mouse scroll-wheel on sliders to change the values)
+• Readjusted camera positions for 1428 poses out of 1545
+• Nickname color support has been added to online friend list
+• Various fixes on Room Props getting displayed wrongly due to vehicles
+• The bug causing room editor to malfunction has been fixed
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://we.tl/t-jHOfM1Gser
+            ]]>
+            </link>
+            </NewsEntry>
+<NewsEntry>
             <date>19.03.24</date>
             <text>
             <![CDATA[
