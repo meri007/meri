@@ -32,9 +32,11 @@
             </link>
             </NewsEntry>
 <NewsEntry>
+	<text>
             <![CDATA[
 	<color=yellow>Alternative Link For Update </color>
             ]]>
+	</text>
         <imgUrl>
             <![CDATA[
             https://i.imgur.com/3OiGbbn.jpeg
