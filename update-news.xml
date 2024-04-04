@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>04.04.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.19.0</color>
+
+• Various optimization on avatar components
+• Cumshot system has been remade
+  • Added Cumshot & Squirt effects to ~150 animations (~200 total)
+  • Now Cumshot & Squirt colors blend with the skin color
+  • Cumshot & Squirt effects now depend on Strap-On
+  • Enabled new Cumshot & Squirt hit effect on Female Avatars (as receiver)
+• Interested In field in Profile Editor has been made to allow text
+• Friend-list will be sorted by alphabetical order
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://gofile.io/d/Pd28g1
+            ]]>
+            </link>
+            </NewsEntry>
+<NewsEntry>
+	<text>
+            <![CDATA[
+	<color=yellow>Alternative Link For Update </color>
+            ]]>
+	</text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+		<link>
+            <![CDATA[
+        https://www.mediafire.com/file/2migqxv79ulzroc/ManualUpdate04042024.zip/file
+            ]]>
+            </link>
+            <![CDATA[
+            ]]>
+</NewsEntry>
+<NewsEntry>
             <date>29.03.24</date>
             <text>
             <![CDATA[
