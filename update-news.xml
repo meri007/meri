@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
-            <date>09.04.24</date>
+            <date>10.04.24</date>
             <text>
             <![CDATA[
-<color=yellow>Update 4.20.0</color>
+<color=yellow>Update 4.20.1</color>
 
 - Profile:
  - Favorite Friends feature has been implemented
@@ -29,7 +29,7 @@
             </imgUrl>
             <link>
             <![CDATA[
-        https://we.tl/t-QKFU9xZoPT
+        https://we.tl/t-XvC9nn080x
             ]]>
             </link>
             </NewsEntry>
@@ -46,7 +46,7 @@
             </imgUrl>
 		<link>
             <![CDATA[
-        https://www.mediafire.com/file/q9sjax49a20wzah/ManualUpdate09042024.zip/file
+        https://www.mediafire.com/file/8j176o59983pp8c/Hotfix10042024.zip/file
             ]]>
             </link>
             <![CDATA[
