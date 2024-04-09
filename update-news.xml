@@ -1,6 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>09.04.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.20.0</color>
+
+- Profile:
+ - Favorite Friends feature has been implemented
+   - Using ☆ on a friend's profile will put them above in the friend list
+   - Favorite Friends is a client feature just like Favorite Rooms, meaning the server cannot view it and Favorite Friends remains as the player's privacy
+ - A profile navigation button has been added
+   - You can revisit the previously seen profiles by clicking on the back button in the beginning of the nickname field of profiles
+ - Report button now forwards to the Official Meredian Discord's ticket support channel
+ - Ignore list is now using sorting method by alphabet
+   - Ignores added during current session will be unsorted on the bottom of the list until the next log in
+- Cumshot:
+  - Added Cumshot & Squirt effect for ~50 Threesome Poses
+  - Fixes on sending cumshot targets to other players
+- Add experimental setting to fix animation de-synchronization (it's disabled by default)
+  - You can find this setting in Game Tab in Settings Menu
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://we.tl/t-QKFU9xZoPT
+            ]]>
+            </link>
+            </NewsEntry>
+<NewsEntry>
+	<text>
+            <![CDATA[
+	<color=yellow>Alternative Link For Update </color>
+            ]]>
+	</text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+		<link>
+            <![CDATA[
+        https://www.mediafire.com/file/q9sjax49a20wzah/ManualUpdate09042024.zip/file
+            ]]>
+            </link>
+            <![CDATA[
+            ]]>
+</NewsEntry>	
+<NewsEntry>
             <date>05.04.24</date>
             <text>
             <![CDATA[
