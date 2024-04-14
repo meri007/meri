@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>14.04.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.20.2</color>
+• Adjustments on clickable walking area
+  • Players are now able to click and move minimal distances again
+• Fix on the bug that prevented avatars' mobility from moving inside of the World Editor
+• Various fixes on the updater
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://we.tl/t-O5D7eXqhgP
+            ]]>
+            </link>
+            </NewsEntry>
+<NewsEntry>
+	<text>
+            <![CDATA[
+	<color=yellow>Alternative Link For Update </color>
+            ]]>
+	</text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+		<link>
+            <![CDATA[
+        https://www.mediafire.com/file/msd0pu7p7iikwnp/ManualUpdate14042024.zip/file
+            ]]>
+            </link>
+            <![CDATA[
+            ]]>
+</NewsEntry>	
+<NewsEntry>
             <date>13.04.24</date>
             <text>
             <![CDATA[
@@ -25,7 +66,7 @@
             ]]>
             </link>
             </NewsEntry>
-	<NewsEntry>
+<NewsEntry>
             <date>10.04.24</date>
             <text>
             <![CDATA[
