@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>03.05.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.21.0</color>
+• Feature
+  • Camera Panning has been implemented to the normal gameplay
+    • Now players will be able to pan their third person camera by clicking and holding down their Mouse Scroll Wheel while moving it above & below
+    • The position of the panning resets to default by either switching camera mode or joining to a room for ease of use
+• Optimization
+  • Various performance improvements made to playable character components
+  • Vehicles to be used in events have been remade to satisfy an overall better performance throughout the game
+• Fixes
+  • Poses
+    • Some poses have been moved to to more appropriate tabs
+    • Incorrect cumshots on some positions have been fixed
+    • Incorrect camera positions have been fixed
+  • A bug causing the strap-on panel to disappear has been fixed
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://we.tl/t-QkqCNWq8Pf
+            ]]>
+            </link>
+            </NewsEntry>
+<NewsEntry>
+	<text>
+            <![CDATA[
+	<color=yellow>Alternative Link For Update </color>
+            ]]>
+	</text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+		<link>
+            <![CDATA[
+        https://www.mediafire.com/file/nyf8e5ss7kik1qc/ManualUpdate03052024.zip/file
+            ]]>
+            </link>
+            <![CDATA[
+            ]]>
+</NewsEntry>	
+<NewsEntry>
             <date>14.04.24</date>
             <text>
             <![CDATA[
