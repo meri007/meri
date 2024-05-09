@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>10.05.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.22.0</color>
+• Features:
+  • Smooth Crossfading has been implemented to Expressions
+  • Slider support for advanced customization has been added to secondary color materials of wearables
+• Fixes:
+  • Camera panning offset not resetting on camera mode change has been fixed
+  • World Editor exclusive Xgold icon bug has been fixed
+  • Flying vehicles rotating in an unintended way has been fixed
+  • Some pose tab names have been corrected
+  • Strapon-lock bug that was happening during anal poses has been fixed
+  • Character parameters precision has been set to 0.000 from 0.00
+  • Caps with custom prints not displaying in rooms bug has been fixed
+  • Fixes on several more camera related bugs on some poses
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://we.tl/t-5K4Wy9pwoA
+            ]]>
+            </link>
+            </NewsEntry>
+<NewsEntry>
+	<text>
+            <![CDATA[
+	<color=yellow>Alternative Link For Update </color>
+            ]]>
+	</text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+		<link>
+            <![CDATA[
+        https://www.mediafire.com/file/lgh131lnw0hul0n/ManualUpdate10052024.zip/file
+            ]]>
+            </link>
+            <![CDATA[
+            ]]>
+</NewsEntry>	
+<NewsEntry>
             <date>03.05.24</date>
             <text>
             <![CDATA[
