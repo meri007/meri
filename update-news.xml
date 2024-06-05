@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
-            <text>
-            <![CDATA[
-<color=yellow>Server is unstable, there are problems with our host provider, we are working for a fix, thank you for your patience</color>
-            ]]>
-	    </text>
-	 <imgUrl>
-            <![CDATA[
-            https://i.imgur.com/fZVDbNq.jpeg
-            ]]>
-            </imgUrl>
-            </NewsEntry>
-<NewsEntry>
             <date>10.05.24</date>
             <text>
             <![CDATA[
