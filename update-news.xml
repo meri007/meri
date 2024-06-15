@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
-            <date>10.07.24</date>
+            <date>15.06.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>☆ Messy Creepy Run!
+✎ Many Color Name and XGold rewards!
+⇩ Anyone can join! Just be present at the room to partipicate!</color>
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://cdn.discordapp.com/attachments/968519132972744725/1251465804378144832/380.png?ex=666eadda&is=666d5c5a&hm=8823482ea9ab869b02aab8daac8d994ea093a48fe21a2c89300fbf317332ae75&
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://meredian.in/
+            ]]>
+            </link>
+            </NewsEntry>
+<NewsEntry>
+            <date>10.06.24</date>
             <text>
             <![CDATA[
 <color=yellow>☆ Building Contest with Color Name Rewards
