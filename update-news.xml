@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>24.06.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.23.0</color>
+• Content
+  • New Content
+    • 30 Female Glasses
+    • 29 Male Glasses
+    • 4 Female Topwear
+    • 3 Male Topwear
+    • 4 Female Dress
+    • 4 Female Botwear
+    • 4 Female Shoe Pairs
+    • 3 Female Bra
+    • 1 Female Underwear
+    • 1 Female Headwear
+    • 2 Female Masks (2 Remakes & Improvements)
+    • 3 Male Masks (2 Remakes & Improvements)
+    • 4 Female Outfit Items
+    • 1 Female Backpack
+    • 1 Male Backpack
+    • 2 Female Rings
+    • 2 Male Rings
+    • Roughly 250 Prints
+  • Fixes
+    • 17 wears have been remade
+    • Two masks in the glasses category have moved to masks
+    • Over 150 outdated and poorly working prints have been replaced with new ones
+• Optimization:
+  • Various optimizations have been made
+• Features:
+  • Lovesense support implemented to the game, you may use /l-help for instructions
+  • Worn clothes in the Character Editor will be highlighted for ease of use for the players
+  • x2.5 and x3.0 options for UI Scaling have been added to the Settings
+  • The Sliders feature for advanced customization for wears have been implemented for glasses
+• Fixes:
+  • The bug causing translation function to stop/freeze has been fixed
+  • Mixed 2 animations for FF on Sofa for giver and receiver have been corrected
+  • Bugged face expressions upon using Moan on some few poses have been fixed
+  • Still having a partner after being removed from 3-Partner instance has been fixed
+  • Sometimes automatic undressing not working in sex poses bug has been fixed
+  • World Editor exclusive use property icon bug has been fixed
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://dropmefiles.com/JgHkK
+            ]]>
+            </link>
+            </NewsEntry>
+<NewsEntry>
             <date>15.06.24</date>
             <text>
             <![CDATA[
