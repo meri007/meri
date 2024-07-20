@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>20.07.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.24.0</color>
+•  Optimization:
+  • Various optimizations made to clothes and settings
+  • Eliminated the performance issue during and upon opening the Room List
+  • Various optimizations and performance tweaks have been made for in-game Worlds (player rooms)
+• Features:
+  • New loading system for in-game items for overall performance increase
+    • The system will take place the first time game is launched, don't close the game
+  • Implement persistent expressions on room change
+    • Players will keep their last active expressions on room changing
+• Fixes:
+  • Fixes on the server stability
+  • Various fixes made to the updater
+  • Fixes applied on the UI elements that caused performance issues prior
+  • /afk Mode resulting in spam in DM's has been fixed
+  • Night Club (Default Location) Sink furniture unintentionally undressing clothes on use has been fixed
+  • Fix character editor issues:
+    • Clothes that were not being removed properly on some of the old avatar files has been fixed
+    • Wrong display of settings on stockings category inside of the Wardrobe has been fixed
+    • Adjustments on Wardrobe clothes sliders has been applied
+  • meredian.in website
+    • Change Password and Change E-mail features have been fixed
+  • Fixes on VR mode issues:
+    • Fix on the virtual keyboard on pressing "V"
+    • Fixes on nicknames displaying
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://pastelink.net/k6ishwih
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <text>
             <![CDATA[
 <color=pink>Lovense</color>
