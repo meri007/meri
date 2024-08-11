@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>11.08.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.24.0 Content</color>
+•  Some of the animations (Dances and Actions) have been optimized
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://www.mediafire.com/file/ujv9pbc8tvpp9vk/ManualUpdate11082024.7z/file
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>20.07.24</date>
             <text>
             <![CDATA[
