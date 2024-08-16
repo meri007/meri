@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>16.08.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.25.0</color>
+• Content
+ • 115 new poses have been added to the game
+
+• Features
+ • Character Editor
+   • Alt+Click on items will open their customization window without unequipping them 
+   • A better color selection tool has been added to Shape & Colors category
+
+• Fixes
+ • Poses without icons issue have been fixed
+ • Various coloring bugs in Character Editor have been fixed
+ • Friend list duplication bug have been fixed
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://www.mediafire.com/file/cmql19sionuj53e/ManualUpdate16082024.7z/file
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>13.08.24</date>
             <text>
             <![CDATA[
