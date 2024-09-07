@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>07.09.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.26.0</color>
+• Animations:
+  • 19 more poses have been added
+• Features:
+  • Added a sync dance button to the dances panel
+    • SYN button can be used to sync dances with your partners and/or group members
+      • Remove /syncdance command
+  • Implemented cumshots to persist on all of the female body parts at the same time
+  • Gifts list will display the name of the senders colors corresponding to their avatar types
+• Fixes:
+  • Fix occasional issue causing gifting photo slot to other player but current one
+  • Fixed the sex mode UI dropdown not resetting to default on logout
+  • Fixed the bask expression for females
+  • Fixed the initial cumshot color
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://www.mediafire.com/file/hpqivc2du20yo5f/ManualUpdate07092024.7z/file
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>16.08.24</date>
             <text>
             <![CDATA[
