@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>29.09.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.26.1</color>
+• YouTube links not working in TV issue has been fixed
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://www.mediafire.com/file/vdd713x1sggvdjp/ManualUpdate29092024.7z/file
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>16.09.24</date>
             <text>
             <![CDATA[
