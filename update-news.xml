@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>09.10.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Discord</color>
+We are aware about Russia and Turkey blocking Discord, we are working for a solution. For now please use VPN if you can't access discord
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://meredian.in/verification.php
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>03.10.24</date>
             <text>
             <![CDATA[
