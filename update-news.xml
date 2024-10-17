@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>18.10.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Maintenance</color>
+Server is unstable, we are investigating the cause, during this time the game may behave inconsistently, thank you for your understanding
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://meredian.in/verification.php
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>09.10.24</date>
             <text>
             <![CDATA[
