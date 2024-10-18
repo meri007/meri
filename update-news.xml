@@ -4,6 +4,40 @@
             <date>18.10.24</date>
             <text>
             <![CDATA[
+<color=yellow>Update 4.27.0</color>
+• Implemented various operators for YouTube for enhanced Video Quality in TV
+  • Different operator options may also help fixing TV related issues
+  • It's advised to switch and test them to find the one to your liking
+    • Operator settings are individual, meaning you can still enjoy your choice of operator while the TV host is broadcasting from a different operator
+    • While the operator choice are individual and independent, newly selected operator will activate on the next unique video if it was changed during an ongoing video
+      • Changing operator does not require a game restart
+  • The implementation may also give light to the future projects to enhance the overall quality and entertainment of TV
+
+• Added a Lovense Mode Function to mitigate issues related to not reaching devices even after connection is established, see /l-help for more information
+
+• Implemented Gift Preview Mode
+  • Players now will be able to preview the gifts that they have been creating by clicking on "Preivew" on Gift Sending menu to view how the gift will look after being sent
+
+• Ambient Sound slider in Settings now affect the machine sounds in Casino Room
+
+• Implemented a warning screen that puts 2-Step verification on Unfriending, Ignoring and Gifting Photo Slot to ensure they are not used accidentally
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://www.mediafire.com/file/5rkj4vmkeb58hhm/ManualUpdate18102024.7z/file
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
+            <date>18.10.24</date>
+            <text>
+            <![CDATA[
 <color=yellow>Maintenance</color>
 Server is currently unstable, we are investigating the cause, during this time the game may behave inconsistently, thank you for your understanding
             ]]>
