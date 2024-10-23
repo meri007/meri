@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
+	<NewsEntry>
+            <date>24.10.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Meredian Halloween Event</color>
+The spookiest day of the year is coming, and as it couldn't be missed, we're going to have an EVENT, and we're counting on your presence!
+Will it be a trick-or-treat day for you? Put on your best Halloween costume and let's celebrate!
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+	https://i.imgur.com/YN8aLol.png
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://meredian.in/verification.php
+            ]]>
+            </link>
+</NewsEntry>
 <NewsEntry>
             <date>18.10.24</date>
             <text>
