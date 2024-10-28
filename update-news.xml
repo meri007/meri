@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
+<NewsEntry>
+            <date>28.10.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Maintenance</color>
+The Server is currently undergoing maintenance for improvements, the game may be inaccessible during this time
+Thank you for your understanding
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://meredian.in/verification.php
+            ]]>
+            </link>
+</NewsEntry>
 	<NewsEntry>
             <date>24.10.24</date>
             <text>
