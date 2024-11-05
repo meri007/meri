@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
-<text>
-<![CDATA[
-<color=yellow>Server Maintenance</color>
-Server is on a temporary maintenance, thank you for your patience ☆
-
-Eta: 1~ Hour
-
-Update: We are still working with the provider to increase the security against DDoS attempts
-]]>
-</text>
-<link>
-<![CDATA[
-https://meredian.in/verification.php
-]]>
-</link>
-</NewsEntry>
-<NewsEntry>
             <date>29.10.24</date>
             <text>
             <![CDATA[
