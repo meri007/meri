@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
-	<NewsEntry>
-            <date>/date>
-            <text>
-            <![CDATA[
+<NewsEntry>
+<text>
+<![CDATA[
 <color=yellow>Server Maintenance</color>
 Server is on a temporary maintenance, thank you for your patience ☆
 
 Eta: 1~ Hour
-            ]]>
-            </text>
-        <imgUrl>
-            <![CDATA[
-
-            ]]>
-            </imgUrl>
-            <link>
-            <![CDATA[
-        https://meredian.in/verification.php
-            ]]>
-            </link>
+]]>
+</text>
+<link>
+<![CDATA[
+https://meredian.in/verification.php
+]]>
+</link>
 </NewsEntry>
 <NewsEntry>
             <date>29.10.24</date>
