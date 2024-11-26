@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>26.11.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.29.0</color>
+• Improvements:
+  • An alternative way to connect to the game has been added (Primary/Secondary options in Login Screen)
+  • Strapon and Slowdance sub-menus are made more compact
+• Animations:
+  • Few new expressions have been added
+  • A new animation has been added to slowdance mode
+• Fixes:
+  • Connection Error on Login Screen not showing up issue has been fixed
+  • Gift Preview Panel not resetting on re-opening has been fixed
+  • Closing rooms through UI(Room List Menu) issues have been fixed
+  • Moan related bugs on Pole poses have been fixed
+  • Players seeing some of the dancing avatars as idling bug has been fixed
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://www.mediafire.com/file/pv4k6ny7s38zcos/ManualUpdate26112024.7z/file
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>20.1.24</date>
             <text>
             <![CDATA[
