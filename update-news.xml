@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>22.12.24</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.30.0
+	    
+For the last month of 2024, we've prepared a bigger update for our Meredian Family, offering more variety and performance than before at the same time.
+We're also including new wears that have been created from our new designers, all being a part of the Meredian Community,
+
+Thank you for being a part of Meredian and making it a wonderful place
+We are wishing you all a Happy New Year ★</color>
+• Content
+  • Tattoos
+    • Over 100 new styles and new variations of Tattoos and Face Tattoos,  have been added to the game
+    • Over 200 older Tattoos and Face Tattoos have been remastered and increased in visual detail and color
+  • Other
+    • Several new pieces of wear for female have been added to the game
+
+• Features:
+  • Favorite Expressions feature has been implemented
+    • Players now will be able to Shift+Left Click on their favorite Expressions to save them to Favorites Category
+
+• Fixes and Improvements
+  • All of the Tattoos and Tattoo variations, as well as Prints have been reworked to pack better visuals as well as increasing performance while reducing the overall disk size
+  • Previous bug that prevented from changing Chat Settings has been fixed
+  • Certain fixes has been made to Profile Editor to prevent profiles from getting broken
+  • Incoming notifications being stuck on Character Select and Log Out screens has been fixed
+  • Refreshing profile on gifting photo slots bug has been fixed
+  • Some performance tweaks have been applied to Snow Effect in World Editor
+
+Disclaimer: We've made big steps in improvement in this update, while trying our best to ensure there were no mistakes,
+There might be few elements that we didn't notice due to the vast amount of the changes,
+We will keep monitoring the update for potential follow-up fixes ★
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://www.mediafire.com/file/0u59gs1ejhzgf6y/ManualUpdate22122024.7z/file
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>16.12.24</date>
             <text>
             <![CDATA[
