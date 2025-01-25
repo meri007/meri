@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>26.01.25</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.30.1</color>
+• Issues related to YouTube when using TV have been fixed
+• Glitchy jaw animations for 9 poses have been corrected
+• Fixes related to Friend List
+  • Friend list not showing online avatars bug has been fixed
+  • Newly added friends not showing up in the friend list bug has been fixed
+• A bug that was previously causing the gift count displaying incorrectly has been fixed
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://privatebin.net/?3483c72cc77f7cc5#De15nPqauMFN3F45J4wV8uA2DFqNGsTP37MwJ16UCUFZ
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>18.01.2025</date>
             <text>
             <![CDATA[
