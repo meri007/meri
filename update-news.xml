@@ -4,25 +4,6 @@
             <date>26.01.25</date>
             <text>
             <![CDATA[
-<color=yellow>Important</color>
-Currently there's a bug related to gifts, we are working on the fix.
-The bug is only visual, all your gifts, or new gifts will still work after the fix.
-Thank you for your understanding
-            ]]>
-            </text>
-        <imgUrl>
-            <![CDATA[
-            ]]>
-            </imgUrl>
-            <link>
-            <![CDATA[
-            ]]>
-            </link>
-</NewsEntry>
-<NewsEntry>
-            <date>26.01.25</date>
-            <text>
-            <![CDATA[
 <color=yellow>Update 4.30.1</color>
 • Issues related to YouTube when using TV have been fixed
 • Glitchy jaw animations for 9 poses have been corrected
