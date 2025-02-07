@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>08.02.25</date>
+            <text>
+            <![CDATA[
+<color=yellow>Server Maintenance</color>
+We are working hard with our new host to open the service back as soon as possible:
+We expect to open Tomorrow-Noon by European timezone. Thank you for your patience ★
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://meredian.in/verification.php
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>26.01.25</date>
             <text>
             <![CDATA[
