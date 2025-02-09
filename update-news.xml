@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>09.02.25</date>
+            <text>
+            <![CDATA[
+<color=yellow>Important Noticement</color>
+Hello,
+We are online now and you can log-in using Primary option, but:
+
+We have resolved most of the issues and improved to a more professional host. But we noticed we had a corrupted base game, this resulted in having to rollback to 13.12.2024
+
+Aside from the rollback, the galleries as well as online-saved Worlds (rooms) unfortunately are corrupted and lost, if we can successfully restore them, your "new" images and Worlds will be replaced with recovered versions, so please make backups of your personal files in your system
+
+(We'll be contacting donors and update their status in the following days starting with tomorrow, we ask for your patience)
+
+We will still be looking for ways to restore the loss data, thank you for understanding ★
+
+Server will work in Test Mode until next notice ★
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://meredian.in/verification.php
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>08.02.25</date>
             <text>
             <![CDATA[
