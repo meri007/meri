@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>11.02.25</date>
+            <text>
+            <![CDATA[
+<color=yellow>Important Noticement</color>
+Server data succesfully restored, we thank you for your patience ★
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://meredian.in/verification.php
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>09.02.25</date>
             <text>
             <![CDATA[
