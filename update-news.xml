@@ -12,8 +12,8 @@
     • Weight system and separate expressions for shrinking and enlargement will allow more organic feeling customization for players convenience
 
   • Automated World and Outfit backups
-Now the players will be automatically storing their created or updated outfits and world files
-The game will now create the backups inside of the new folder /UserData
+    • Now the players will be automatically storing their created or updated outfits and world files
+    • The game will now create the backups inside of the new folder /UserData
 
 • Fixes and Optimization
   • Secondary Log-in
