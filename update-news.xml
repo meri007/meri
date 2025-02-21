@@ -10,10 +10,12 @@
     • Players will now be able to change the size of their penis
     • This setting can be found in Expression menu in Genital setting
     • Weight system and separate expressions for shrinking and enlargement will allow more organic feeling customization for players convenience
+    • This is an experimental feature, we may update and apply modifications to it for improvement reasons
 
   • Automated World and Outfit backups
     • Now the players will be automatically storing their created or updated outfits and world files
     • The game will now create the backups inside of the new folder /UserData
+    • It's encouraged that players manually keep saving their valuable Outfit and World files as this feature is only meant as a backup
 
 • Fixes and Optimization
   • Secondary Log-in
