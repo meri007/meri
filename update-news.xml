@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>21.02.25</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.31.0</color>
+• Features
+  • Sizeable Penis
+    • Players will now be able to change the size of their penis
+    • This setting can be found in Expression menu in Genital setting
+    • Weight system and separate expressions for shrinking and enlargement will allow more organic feeling customization for players convenience
+
+  • Automated World and Outfit backups
+Now the players will be automatically storing their created or updated outfits and world files
+The game will now create the backups inside of the new folder /UserData
+
+• Fixes and Optimization
+  • Secondary Log-in
+    • The problem causing the Secondary option in log-in screen to not work as intended has been fixed
+
+  • TV
+    • Issues related displaying content from YouTube has been fixed
+		    
+  • Other
+    • Various optimizations made into the avatar systems
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+        https://privatebin.net/?99f67c0d24af0738#34y5o8sZTFHMLevSWYdo5Y4K3SRajjRhCw6Fyc8m1BTT
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>11.02.25</date>
             <text>
             <![CDATA[
