@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>16.03.25</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.32.0</color>
+• Features
+  • Profile Styles have been implemented
+    • You may click Edit Style button on your profile window to access the new Profile Styles tool
+• Content
+  • 26 New Tattoos were added
+    • 14 Female
+    • 12 Male
+• Fixes and Improvements
+  • Print Selector numbers are now made more visible
+  • Quality improvements on Log-in screen game-news images
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://privatebin.net/?a79b434504ea3f86#7RP32KYKALFgT1QG5uFhSzQxnoizah3iRxTyttiev4YH
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>21.02.25</date>
             <text>
             <![CDATA[
