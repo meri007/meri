@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>27.04.2025</date>
+            <text>
+            <![CDATA[
+<color=yellow>Important Notice</color>
+            ]]>
+New registrations need to verify their accounts through e-mail to be able to play
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/mHr5D4V.png
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://meredian.in/verification.php
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>27.03.2025</date>
             <text>
             <![CDATA[
