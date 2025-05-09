@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>09.05.25</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.33.0</color>
+• Improvements:
+  • UI:
+    • Improvements on profile navigation
+      • Pagination system added to gifts 
+      • Gifts page states are now persistent
+    • A copy nickname button has been added next to player name in profile
+    • Remove reload friends button in profile
+    • Improvements on expression icons
+    • Numbers in print catalogue now have outlines for better visibility
+  • Rooms:
+    • Improvements on rooms loading
+    • Some of the default rooms received new lights that turn on with darker weather settings
+• Fixes:
+  • The bug that happened during room change while concurrent room's players are still loading has been fixed
+  • The bug causing the last gallery picture to not work as intended with Profile Background has been fixed
+  • Fixed overlapping profile style images due to UI scale settings
+  • Fixed the weather UI selector displaying in a few default rooms
+  • Fixes on few profile reloading issues
+  • Resetting "about me" scroll position on opening own profile has been fixed
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://privatebin.net/?518fd50d8cc6e0ac#8DxAwdwUMgMZkyEGXMBArZALFYfotMtQxEYUDFXhAdoU
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>05.05.25</date>
             <text>
             <![CDATA[
