@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>16.05.25</date>
+            <text>
+            <![CDATA[
+<color=yellow>Meredian Spring Sale</color>
+Click on the banner picture to learn more ★
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/UKmnHHg.png
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://discord.gg/e5PCfzGEEr
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>15.05.2025</date>
             <text>
             <![CDATA[
