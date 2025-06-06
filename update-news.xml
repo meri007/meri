@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>06.06.2025</date>
+            <text>
+            <![CDATA[
+<color=yellow>Official Meredian Event</color>
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/VDaAEhM.png
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://meredian.in/verification.php
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>15.05.2025</date>
             <text>
             <![CDATA[
