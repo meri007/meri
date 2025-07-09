@@ -4,11 +4,44 @@
             <date>09.07.25</date>
             <text>
             <![CDATA[
-<color=yellow>Pre-Update 4.35.0</color>
-You can download the pre-update earlier and join up to the game faster when the update is activated in few hours today
-Manual link will be below on the banner as usual
-This notice will replace with the changelog once the update goes live
-(Alternative links will be updated for manual patching "after" the update goes live)
+<color=yellow>Update 4.35.0</color>
+• Content
+  • 110 new wearables have been added to the game
+    • Female              • Male
+18 Outfit Variants   • 4 Outfit Variants
+12 Bottom Wears      • 4 Bottom Wears
+11 Pairs of Shoes    • 2 Pairs of Shoes
+9 Top Wears          • 6 Top Wears
+8 Collars            • 1 Collar
+6 Backpacks          • 5 Backpacks
+5 Hats               • 2 Hats
+4 Bras               • 2 Wings
+3 Wings              • 2 Bracelets
+2 Dresses
+2 Bracelets
+1 Panty
+  • 13 existing female wearables have been updated / remade
+    • 4 Bottom Wears
+    • 4 Outfit Variants
+    • 2 Panties
+    • 1 Bra
+    • 1 Backpack
+    • 1 Dress
+• Features
+  • Players are now able to view and adjust their clothing sets in full while picking a stocking, underwear etc.
+    • To utilize from this feature, one can click on individual eye icons next to the category names to either disable or enable their visibility inside of the Character Editor
+  • Toenail masking is now implemented
+    • The feature will help with certain shoes and stockings that normally would be more immersive without exposed toenails, this setting is automated by the game
+  • Re-Selecting worn items
+    • Clicking on equipped items inside of the Character Editor will bring up it's customization options instead of removing them, to remove, players can click on Remove Item, for Outfits category, players first need to select the item to be removed before clicking on Remove Item
+  • Bracelet selection menu has been remade
+• Improvements
+  • Pose tags have been improved
+    • A & V indicator symbols have been added to intimate pose requests
+
+• Fixes
+  • Some name conflicts and various bugs on the poses have been corrected
+  • The bug causing Load Outfit to not load Metalness and Smothness properties properly has been fixed
             ]]>
             </text>
         <imgUrl>
@@ -18,7 +51,7 @@ https://i.imgur.com/3OiGbbn.jpeg
             </imgUrl>
             <link>
             <![CDATA[
-https://gofile.io/d/af1I1M
+https://privatebin.net/?16d79c1865068662#Bw2sijjYoKjWXCCZmUGzwHJYcYqN2mcUVZfeyRuoJhrg
             ]]>
             </link>
 </NewsEntry>
