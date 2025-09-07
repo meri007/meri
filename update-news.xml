@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>07.09.25</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.36.0</color>
+• Features
+  • Emojis
+    • Implemented emojis for chat windows, you may press  win + . to access emoji list
+  • Important
+    • It's an experimental feature, for now it's suggested to be only used in chat windows
+    • Currently we support most of languages but there still might be issues - let us know through tickets
+    • World Chat and spam related rules also apply for emojis, please use them responsibly
+
+  
+  • Profile Addition
+    • Allow players to hide their profile picture
+
+• QoL and Bugfixes
+    • Color Picker and Transform window positions in World Editor are now persistent
+    • Block and unblock features sometimes not working as intended bug has been fixed
+    • Fixed the issue causing the camera to stop zooming properly in relevant categories in Character Editor
+    • A certain bug affecting walking mode for male avatars has been fixed
+
+• Other:
+    • One male tattoo has been removed for not being fit to the environment of the game
+    • World Chat message cost increased from 300 to 500
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://privatebin.net/?a526ba8213b504f7#662zQfBBfbdwBGeGMBGAqgv7xCovSyh2TNHVHskxNLmV
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>09.07.25</date>
             <text>
             <![CDATA[
@@ -3951,3 +3990,4 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
