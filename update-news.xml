@@ -28,6 +28,7 @@
 
 • Known Bugs
   • Currently the typing indicator in chat does not work due to a bug, this feature will be fixed in the next update
+  • Currently clickable links sent through chat windows do not open up the browser automatically, this feature will be fixed in the next update
             ]]>
             </text>
         <imgUrl>
@@ -3992,5 +3993,6 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
