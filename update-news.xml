@@ -13,7 +13,6 @@
     • Currently we support most of languages but there still might be issues - let us know through tickets
     • World Chat and spam related rules also apply for emojis, please use them responsibly
 
-  
   • Profile Addition
     • Allow players to hide their profile picture
 
@@ -26,6 +25,9 @@
 • Other:
     • One male tattoo has been removed for not being fit to the environment of the game
     • World Chat message cost increased from 300 to 500
+
+• Known Bugs
+  • Currently the typing indicator in chat does not work due to a bug, this feature will be fixed in the next update
             ]]>
             </text>
         <imgUrl>
@@ -3990,4 +3992,5 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
