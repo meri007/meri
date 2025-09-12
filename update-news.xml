@@ -4,19 +4,35 @@
             <date>12.09.25</date>
             <text>
             <![CDATA[
-<color=yellow>Security Update</color>
-We’re asking anyone who hasn’t changed their password in the last 2 years to update it as a precaution.
-This helps keep your account safe — no action needed if you’ve already updated recently.
+<color=yellow>Update 4.36.0</color>
+• Improvements:
+  • Various improvements on the chat window,
+  • Implemented a new button for ease of access to Emoji Picker,
+  • Previous send button has been changed with a clearer button in chat window,
+  • Emoji Picker will now prevent accidental zoom effects while active,
+  • New text adjustment settings have been implemented to chat settings,
+  • Chat input field is now affected by chat settings,
+
+• Fixes:
+  • Typing indicator has been fixed,
+  • Chat link into browser interaction has been fixed,
+  • Fixed the bug where having too many characters would have glitches,
+  • Recent World Editor shortcut bug issues have been fixed,
+  • Character Editor not loading some of the character properties bug has been fixed,
+
+• Security Update
+  • We’re asking anyone who hasn’t changed their password in the last 2 years to update it as a precaution.,
+  • This helps keep your account safe — no action needed if you’ve already updated recently.
             ]]>
             </text>
         <imgUrl>
             <![CDATA[
-https://i.imgur.com/5ifPS8B.png
+https://i.imgur.com/3OiGbbn.jpeg
             ]]>
             </imgUrl>
             <link>
             <![CDATA[
-https://meredian.in/
+https://privatebin.net/?79071483fa69bb06#7MEcUS8phhrUwoNbc96Xc2ChQ4ydY87GLLm57G8YxNx2
             ]]>
             </link>
 </NewsEntry>
@@ -4013,6 +4029,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
