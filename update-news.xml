@@ -4,7 +4,7 @@
             <date>12.09.25</date>
             <text>
             <![CDATA[
-<color=yellow>Update 4.36.0</color>
+<color=yellow>Update 4.36.1</color>
 • Improvements:
   • Various improvements on the chat window,
   • Implemented a new button for ease of access to Emoji Picker,
@@ -4029,6 +4029,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
