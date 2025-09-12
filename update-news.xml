@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>13.09.25</date>
+            <text>
+            <![CDATA[
+<color=yellow>Meredian September Discount</color>
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/t53nvRo.png
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://discord.gg/eHZ9vmNw45
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>12.09.25</date>
             <text>
             <![CDATA[
@@ -4029,6 +4047,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
