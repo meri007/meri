@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>26.10.25</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.37.0</color>
+• Content / Feature
+  • Ripping feature has been implemented for stockings
+  • 51 New World Editor Materials have been implemented to the game
+
+• Improvements:
+  • Improved clothes hiding on selecting a category in character editor
+  • Various improvements on older World Editor Materials
+
+• Fixes:
+  • Fixed a bug related to scrolling on chat input when there's nothing to scroll
+  • Fixed various issues related to horizontal text overflow in chat window
+  • Fixed the issue causing pose icons not loading (being white)
+  • Fixes on a few issues related to Custom World optimization
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://pastelink.net/83epkm59
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>14.10.2025</date>
             <text>
             <![CDATA[
@@ -4047,6 +4078,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
