@@ -18,6 +18,8 @@
   • Fixed various issues related to horizontal text overflow in chat window
   • Fixed the issue causing pose icons not loading (being white)
   • Fixes on a few issues related to Custom World optimization
+
+Disclaimer: Currently there's a bug related to eye icons in the character editor which may result in not wearing all clothes properly. Not clicking on the eye icons will prevent this bug. The fix will be applied on the next update, thank you for your understanding
             ]]>
             </text>
         <imgUrl>
@@ -4078,6 +4080,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
