@@ -1,36 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
-            <date>17.11.2025</date>
-            <text>
-            <![CDATA[
-<color=yellow>Update: Emojis in Nicknames!</color>
-We've just added Emoji support in nicknames as a new donation perk!
-This is an upgrade to the Special Nickname perk.
-
-If you already have a Special Nickname, you can now add emojis!
-For the next 2 days (until Wednesday), emoji nicknames are free with any Special Nickname!
-After that, it’ll become a separate perk.
-
-• Emojis are hidden in your avatar name but fully visible in chat!
-• Max 2 emojis allowed per nickname
-• Some emojis may be incompatible, please ask a manager for it's availability
-				
-You can click on the banner for details ★
-            ]]>
-            </text>
-        <imgUrl>
-            <![CDATA[
-https://i.imgur.com/VD2qfcP.jpeg
-            ]]>
-            </imgUrl>
-            <link>
-            <![CDATA[
-https://discord.gg/e5PCfzGEEr
-            ]]>
-            </link>
-</NewsEntry>
-<NewsEntry>
             <date>26.10.25</date>
             <text>
             <![CDATA[
@@ -4110,6 +4080,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
