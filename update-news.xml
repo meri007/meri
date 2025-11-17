@@ -27,6 +27,25 @@ https://discord.gg/xSmFGdBn
             </link>
 </NewsEntry>
 <NewsEntry>
+            <date>17.11.2025</date>
+            <text>
+            <![CDATA[
+<color=yellow>Meredian November Discount</color>
+You can click on the image for more information ★
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/ldLGm9G.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://discord.gg/xSmFGdBn
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>26.10.25</date>
             <text>
             <![CDATA[
@@ -4106,6 +4125,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
