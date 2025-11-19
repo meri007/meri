@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>19.11.2025</date>
+            <text>
+            <![CDATA[
+<color=yellow>Meredian Sin Club Event</color>
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/PEgtwhi.png
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://meredian.in/verification.php
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>17.11.2025</date>
             <text>
             <![CDATA[
@@ -18,25 +36,6 @@ You can click on the image for more information ★
         <imgUrl>
             <![CDATA[
 https://i.imgur.com/VD2qfcP.jpeg
-            ]]>
-            </imgUrl>
-            <link>
-            <![CDATA[
-https://discord.gg/xSmFGdBn
-            ]]>
-            </link>
-</NewsEntry>
-<NewsEntry>
-            <date>17.11.2025</date>
-            <text>
-            <![CDATA[
-<color=yellow>Meredian November Discount</color>
-You can click on the image for more information ★
-            ]]>
-            </text>
-        <imgUrl>
-            <![CDATA[
-https://i.imgur.com/ldLGm9G.jpeg
             ]]>
             </imgUrl>
             <link>
@@ -4125,6 +4124,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
