@@ -7,6 +7,8 @@
 <color=yellow>Update 4.38.0</color>
 With this update we tried to bring you some interesting features as well as Quality of Life changes, we didn't forget about the fashionists and we have an additional update following up soon for them ★
 
+Disclaimer: Currently there's a bug related to body-piercings, we are looking on a bugfix. Temporarily, you can visit your /UserData/Characters folder to retrieve your older outfit saves
+				
 • Features
   • Implemented Condom Feature
     • Players can now use condoms at any moment they wish while having the opportunity to customize them in the Character Editor
@@ -29,8 +31,6 @@ With this update we tried to bring you some interesting features as well as Qual
   • The bug causing worn clothes to be hidden on room-joining has been fixed
   • DJ Panel randomly appearing next to menu has been fixed
   • Other various minor fixes
-
-Disclaimer: Currently there's a bug related to body-piercings, we are looking on a bugfix. Temporarily, you can visit your /UserData/Characters folder to retrieve your older outfit saves
             ]]>
             </text>
         <imgUrl>
@@ -4186,6 +4186,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
