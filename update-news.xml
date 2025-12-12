@@ -10,11 +10,14 @@ With this update we tried to bring you some interesting features as well as Qual
 • Features
   • Implemented Condom Feature
     • Players can now use condoms at any moment they wish while having the opportunity to customize them in the Character Editor
-  • Implemented Hidden Clothes System
+  
+• Implemented Hidden Clothes System
     • Players are now able to hide up to 3 different clothing pieces by default in the Character Editor, to later enable them at will during the gameplay
-  • Implementation of Spoilers in World Chat
+
+• Implementation of Spoilers in World Chat
     • Bigger messages that take up the majority of the chat window now will be shortened and can be expanded when clicked on them, to allow people to enjoy the World Chat with ease without having to go through visual clutter
-  • Cleaner Player Profiles
+
+• Cleaner Player Profiles
     • Some of the text field sections on profiles will be invisible if they are left empty for more clean and minimalistic looks
 
  
@@ -4181,6 +4184,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
