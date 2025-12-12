@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>26.10.25</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.38.0</color>
+With this update we tried to bring you some interesting features as well as Quality of Life changes, we didn't forget about the fashionists and we have an additional update following up soon for them ★
+
+• Features
+  • Implemented Condom Feature
+    • Players can now use condoms at any moment they wish while having the opportunity to customize them in the Character Editor
+  • Implemented Hidden Clothes System
+    • Players are now able to hide up to 3 different clothing pieces by default in the Character Editor, to later enable them at will during the gameplay
+  • Implementation of Spoilers in World Chat
+    • Bigger messages that take up the majority of the chat window now will be shortened and can be expanded when clicked on them, to allow people to enjoy the World Chat with ease without having to go through visual clutter
+  • Cleaner Player Profiles
+    • Some of the text field sections on profiles will be invisible if they are left empty for more clean and minimalistic looks
+
+ 
+• Fixes
+  • Various disconnection issues caused by some game elements as well as room changing has been fixed
+  • Bugs related to sometimes not receiving pose requests during three-partnership mode when at least one partner uses sub mode have been fixed
+  • The bug preventing removing or editing some of the worn-clothes in the Character Editor has been fixed
+  • Fixes on various stockings in the Character Editor
+  • The bug causing worn clothes to be hidden on room-joining has been fixed
+  • DJ Panel randomly appearing next to menu has been fixed
+  • Other various minor fixes
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/3OiGbbn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://privatebin.net/?e635e4f4345372eb#4ovaRvf8fhTp85uBbHU1TqbgatmEDELLZqSizSSTH9z7
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>22.11.2025</date>
             <text>
             <![CDATA[
@@ -4142,6 +4181,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
