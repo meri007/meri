@@ -29,6 +29,8 @@ With this update we tried to bring you some interesting features as well as Qual
   • The bug causing worn clothes to be hidden on room-joining has been fixed
   • DJ Panel randomly appearing next to menu has been fixed
   • Other various minor fixes
+
+Disclaimer: Currently there's a bug related to body-piercings, we are looking on a bugfix. Temporarily, you can visit your /UserData/Characters folder to retrieve your older outfit saves
             ]]>
             </text>
         <imgUrl>
@@ -4184,6 +4186,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
