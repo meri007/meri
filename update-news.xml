@@ -1,29 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
-            <date>15.12.2025</date>
-            <text>
-            <![CDATA[
-<color=yellow>Special Discount</color>
-To celebrate the coming of Xmas
-We are introducing the new 1+1 donation perk packs
-And publishing a special discount! 
-Click on the banner to learn more ★
-15.12.2025 - 17.12.2025
-            ]]>
-            </text>
-        <imgUrl>
-            <![CDATA[
-https://i.imgur.com/bXrmAy4.png
-            ]]>
-            </imgUrl>
-            <link>
-            <![CDATA[
-https://discord.gg/y7aXTuP2
-            ]]>
-            </link>
-</NewsEntry>
-<NewsEntry>
             <date>26.10.25</date>
             <text>
             <![CDATA[
@@ -4209,6 +4186,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
