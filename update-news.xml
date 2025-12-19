@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>19.12.2025</date>
+            <text>
+            <![CDATA[
+<color=yellow>Meredian Christmas Event</color>
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/UyX3wQa.png
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://meredian.in/verification.php
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>12.12.25</date>
             <text>
             <![CDATA[
@@ -4186,6 +4204,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
