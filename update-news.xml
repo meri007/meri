@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>24.12.2025</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.38.1</color>
+• Content
+  • Animations
+    • 101 new poses have been added
+  • Character Editor
+    • 9 new Male and Female tattoos have been added
+    • 42 New Female and 14 New Male clothing options have been added to Character Editor
+      • Various clothes from before have been updated / fixed
+• Fixes
+  • Body piercings have been fixed
+    • You may still need open character editor and fix colors or load preset saved before 4.38.0 version (You can find your backups in UserData folder in game's main folder)
+  • Color issues related to some male glasses have been fixed
+  • Bigger gallery images' scaling issue on smaller windows have been fixed
+  • The bug causing reversed button names on special tab has been fixed
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/doDmpnf.png
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://pastelink.net/b4hhezlp
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>19.12.2025</date>
             <text>
             <![CDATA[
@@ -4204,6 +4235,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
