@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
-            <date>25.12.2025-01.01.2026</date>
-            <text>
-            <![CDATA[
-            ]]>
-            </text>
-        <imgUrl>
-            <![CDATA[
-https://i.imgur.com/OkwWu54.png
-            ]]>
-            </imgUrl>
-            <link>
-            <![CDATA[
-https://discord.gg/7FhfB4eC
-            ]]>
-            </link>
-</NewsEntry>
-<NewsEntry>
             <date>24.12.2025</date>
             <text>
             <![CDATA[
@@ -4252,6 +4235,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
