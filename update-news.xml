@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>02.12.2026</date>
+            <text>
+            <![CDATA[
+<color=yellow>Meredian Valentine's Day Event</color>
+This Saturday come rock with us at Sin Club
+A night of rock & metal songs for valentins
+Live DJ's
+Juggalo-Trade 20:00-21:20
+Juggalette-Winx 21:20-22:40
+Juggalette-PoisIvy 22:40 -
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/Et94jdq.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://meredian.in/verification.php
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>24.12.2025</date>
             <text>
             <![CDATA[
@@ -4235,6 +4259,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
