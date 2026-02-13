@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>14.02.2026</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.39.0</color>
+• Features
+  • Improvements on emoji look up (partially typing the keyword after ":" will start it)
+  • Each unique chat tab now have their own input field (previously mid-typing would persist between switching chat tabs)
+  • Face Morphs are implemented
+    • Players will now be able to match and merge styles of two different face shapes to their liking and create unique face presets
+
+• Fixes
+  • Previous problems with butt plugs have been resolved
+  • Some chat bugs that were causing overlapping on text on Paste (ctrl + v) have been fixed
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/doDmpnf.png
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://pastelink.net/dqxm46vv
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>02.12.2026</date>
             <text>
             <![CDATA[
@@ -4259,6 +4286,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
