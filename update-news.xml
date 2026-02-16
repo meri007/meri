@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>02.16.2026</date>
+            <text>
+            <![CDATA[
+<color=yellow>Meredian Carnival Event</color>
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/1X1mNkn.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://meredian.in/verification.php
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>14.02.2026</date>
             <text>
             <![CDATA[
@@ -4286,6 +4304,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
