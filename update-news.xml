@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>27.02.2026</date>
+            <text>
+            <![CDATA[
+<color=red>Community Spanish Moderator Application Period, You May Click On the Banner to Access to the Form</color>
+            ]]>
+            </text>
+            <imgUrl>
+            <![CDATA[
+           https://i.imgur.com/BEbp465.png
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+                https://forms.gle/JLeFBiQzie1EwxBz7
+            ]]>
+            </link>
+        </NewsEntry>
+<NewsEntry>
             <date>02.16.2026</date>
             <text>
             <![CDATA[
@@ -4304,6 +4322,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
