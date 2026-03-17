@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
+<NewsEntry>
+            <date>17.03.2026</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.40.0</color>
+• Features:
+  • Character Editor:
+    • Added new 26 face presets for male and female combined
+    • A new ear customization and presets have been added to character editor
+    • Implemented a button to reset item customization
+  • Lazy sex mode has been added
+    • Sub mode will accept incoming pose requests immediately
+    • Lazy mode will wait a few seconds before accepting the pose, giving you the option to refuse in time
+
+• Fixes:
+  • Fixes on carrying on hands synchronization
+  • Fixed an issue where camera panning would sometimes open a profile
+  • Some chat bugs that were causing overlapping on text on Paste (ctrl + v) have been fixed
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/2KsLkgX.png
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://pastelink.net/5bwjsoou
+            ]]>
+            </link>
+</NewsEntry
 	<NewsEntry>
             <date>14.03.2026</date>
             <text>
