@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>01.04.2026</date>
+            <text>
+            <![CDATA[
+<color=yellow>Important Notify</color>
+• There is a known bug with running shirts and pants, we are working on a fix during this time we suggest not trusting to mirror, espeically your pants.
+            ]]>
+            </text>
+        <imgUrl>
+            </imgUrl>
+            <link>
+            <![CDATA[
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
             <date>17.03.2026</date>
             <text>
             <![CDATA[
