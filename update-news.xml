@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
-            <date>01.04.2026</date>
+            <date>24.04.2026</date>
             <text>
             <![CDATA[
-<color=yellow>Important Notify</color>
-• There is a known bug with running shirts and pants, we are working on a fix during this time we suggest not trusting to mirror, espeically your pants.
+<color=yellow>Update 4.41.0</color>
+• Features
+  • Chat Replies
+    • You can now reply to chat messages from the context menu opened by right clicking onto desired message
+    • 72 new animations (poses) have been added to the game
             ]]>
             </text>
         <imgUrl>
+            <![CDATA[
+https://i.imgur.com/2PeTACC.png
+            ]]>
             </imgUrl>
             <link>
             <![CDATA[
+https://pastelink.net/h8hkefmk
             ]]>
             </link>
 </NewsEntry>
