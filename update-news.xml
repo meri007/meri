@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
-            <date>08.07.2026</date>
+            <date>12.07.2026</date>
             <text>
             <![CDATA[
-<color=yellow>We are aware of the current connection problems with the platform due to DDoS attacks being made against the game, we are currently-actively working on a fix and awaiting our providers. We are hoping to return the services back online in approximately 1 hour, thank you for your understanding</color>
-• During this time the game & ticket services may be unavailable 
-Update: We are still working on restoring the service back online, currently you may still log-in with Primary & Secondary but they might be unstable to play, time for the complete recovery is approximately around GMT 14:00 but we may finish restoration much faster than the estimated time
-
-Update 2: Online service have been restored back in about 6 hours ago, we are currently in the test phase, during this time we are monitoring the stability of the platform, in which, anyone can log-in as usual, although since it's a test phase, disruptions or instabilities may or may not occur during play for the duration of test phase 
+<color=yellow>Ongoing Test Phase</color>
+During this time, you may want to switch log-in options to access to the game if one of them stops working, as we keep monitoring and working on permanent fixes
             ]]>
             </text>
+        <imgUrl>
+            <![CDATA[
+https://i.imgur.com/A2l1bLr.jpeg
+            ]]>
+            </imgUrl>
 </NewsEntry>
 <NewsEntry>
             <date>21.06.2026</date>
