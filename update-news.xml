@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>26.07.2026</date>
+            <text>
+            <![CDATA[
+<color=yellow>Maintenance</color>
+Server is temporary down, we are asking your patience while we work on restoring the online services back
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+            ]]>
+            </imgUrl>
+</NewsEntry>
+<NewsEntry>
             <date>12.07.2026</date>
             <text>
             <![CDATA[
