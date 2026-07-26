@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
-            <date>26.07.2026</date>
+            <date>27.07.2026</date>
             <text>
             <![CDATA[
-<color=yellow>Maintenance</color>
-Server is temporary down, we are asking your patience while we work on restoring the online services back
+<color=yellow>Current Status</color>
+Platform is again under a DDoS attack, we know where this is coming from and how to solve this but it can take up to 12 hours from now, during this time the server may act unstable (randomly online and offline)
+
+Thank you for your patience
             ]]>
             </text>
         <imgUrl>
