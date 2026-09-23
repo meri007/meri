@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>23.09.2026</date>
+            <text>
+            <![CDATA[
+<color=red>Server Maintenance Notice</color>
+- Status
+  • Our hosting provider is currently experiencing technical issues
+  • The provider is actively working on restoring the server
+  • The server will remain unavailable until the issue is resolved
+- Estimated time
+  • The server will be back online as soon as it is restored
+  • Latest expected time: tomorrow (24.09) by 2:00 PM CET
+- Thank you for your patience!
+			]]>
+            </text>
+</NewsEntry>
+<NewsEntry>
             <date>28.08.2026</date>
             <text>
             <![CDATA[
