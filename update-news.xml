@@ -4,15 +4,9 @@
             <date>23.09.2026</date>
             <text>
             <![CDATA[
-<color=red>Server Maintenance Notice</color>
+<color=green>Server Maintenance Notice Over. For now only for secondary proxy</color>
 - Status
-  • Our hosting provider is currently experiencing technical issues
-  • The provider is actively working on restoring the server
-  • The server will remain unavailable until the issue is resolved
-- Estimated time
-  • The server will be back online as soon as it is restored
-  • Latest expected time: tomorrow evening (CET)
-- Thank you for your patience!
+  • Server is up, only on secondary proxy
 			]]>
             </text>
         <imgUrl>
