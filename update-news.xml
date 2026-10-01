@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
-<NewsEntry>
-            <date>23.09.2026</date>
-            <text>
-            <![CDATA[
-<color=green>Server Maintenance Notice Over. For now only for secondary proxy</color>
-- Status
-  • Server is up, only on secondary proxy
-			]]>
-            </text>
-        <imgUrl>
-            <![CDATA[]]>
-            </imgUrl>
-            <link>
-            <![CDATA[]]>
-            </link>
-</NewsEntry>
+
 <NewsEntry>
             <date>28.08.2026</date>
             <text>
