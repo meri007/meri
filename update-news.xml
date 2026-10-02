@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
-
+<NewsEntry>
+            <date>02.10.2026</date>
+            <text>
+            <![CDATA[
+<color=yellow>October Special Discount/color>
+• Click on the image above to find out more ★
+			]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://update.meredian.in/newupdater/discount_banner.png
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://discord.gg/jWdQhCP4kA
+            ]]>
+            </link>
+</NewsEntry>
 <NewsEntry>
             <date>28.08.2026</date>
             <text>
