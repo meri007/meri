@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>07.10.2026</date>
+            <text>
+            <![CDATA[
+<color=yellow>Account Security Notice</color>
+Players with accounts created before 2020 are strongly encouraged to <b>change their passwords</b> to further enhance account security; we recommend using a unique password that is used only for your game account.
+
+<b>Please update your password. Your account security is important to us.</b>
+			]]>
+            </text>
+</NewsEntry>
+<NewsEntry>
             <date>28.08.2026</date>
             <text>
             <![CDATA[
