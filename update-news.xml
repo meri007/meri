@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
-            <date>11.07.2026</date>
+            <date>08.11.2026</date>
+            <text>
+            <![CDATA[
+<color=yellow>Update 4.45.0</color>
+• Content
+  • 243 new poses have been added
+  • 50 new expressions have been added
+
+• Improvements
+  • A toggle to disable incoming pose notifications in Sub mode has been added to settings
+
+• Fixes
+  • Various bugs preventing the chat window to automatically scroll down on a new message have been fixed
+  • Typing indicator not showing on the active chat window and unintended blinking on creating a new private tab have been fixed
+  • Fixed visual bugs caused by toggling off the Actions Panel
+  • Color options on some of the older clothes have been fixed
+  • A visual bug showing inactive expressions to be in use has been fixed
+  • A local bug displaying self avatar as dressed in no-dressing rooms has been fixed
+  • Fixed an issue where partnered status' visual indicator would not get erased upon visiting Character Editor
+            ]]>
+            </text>
+        <imgUrl>
+            <![CDATA[
+https://update.meredian.in/newupdater/manual_update_banner.jpeg
+            ]]>
+            </imgUrl>
+            <link>
+            <![CDATA[
+https://pastelink.net/ztzv7y2v
+            ]]>
+            </link>
+</NewsEntry>
+<NewsEntry>
+            <date>07.11.2026</date>
             <text>
             <![CDATA[
 <color=yellow>November Discount</color>
