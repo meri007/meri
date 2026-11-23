@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
-            <date>23.11.2026</date>
-            <text>
-            <![CDATA[
-Currently we are experiencing connection problems with the platform server, we are actively working on a fix, thank you for your understanding
-				            ]]>
-</NewsEntry>
-<NewsEntry>
             <date>08.11.2026</date>
             <text>
             <![CDATA[
@@ -4685,6 +4678,7 @@ To more information visit Discord
 		</link>
 	</NewsEntry>
 </NewsList>
+
 
 
 
