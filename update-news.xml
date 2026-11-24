@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NewsList>
 <NewsEntry>
+            <date>24.11.2026</date>
+            <text>
+            <![CDATA[
+<color=yellow>Notice</color>
+We are aware of the recent server stability problems, unfortunately we are under the attack of a malicious DDoS
+We are in the works of bringing hopefully a permanent fix as soon as possible
+Thank you for your understanding and your patience
+
+            ]]>
+</NewsEntry>
+<NewsEntry>
             <date>08.11.2026</date>
             <text>
             <![CDATA[
